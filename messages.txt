@@ -1,7 +1,7 @@
-0=Bienvenue à U-report où vous pouvez parler et d'être entendu. U-report est un système de SMS gratuit où vous pouvez parler de questions dans votre communauté.
+0=Bienvenue à U-report. U-report est un système de SMS gratuit où vous pouvez parler de questions dans votre communauté.
 1=Comment avez-vous entendu parler de U-report?
-2=Il est important de savoir qui district vous serez rapports sur afin que nous puissions travailler ensemble pour essayer et résoudre les problèmes dans votre communauté! Répondre uniquement avec votre district.
+2=Il est important de savoir qui district vous serez rapports. Répondre uniquement avec votre district.
 4=Quel est votre âge?
 5=Êtes-vous un homme ou une femme? Type F pour féminin et M pour masculin.
 6=Quels village dans votre quartier Allez-vous déclarer à partir de? S'il vous plaît répondre UNIQUEMENT avec le nom de votre village.
-7=FÉLICITATIONS! Vous êtes maintenant un membre inscrit de U-rapport! Avec U-rapport, vous pouvez faire une réelle différence! Parler et d'être entendu! de l'UNICEF
+7=FÉLICITATIONS! Vous êtes maintenant un membre inscrit de U-rapport! Avec U-rapport, vous pouvez faire une réelle différence! Parler et d'être entendu!
