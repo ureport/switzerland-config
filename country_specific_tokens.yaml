@@ -1,0 +1,25 @@
+tokens:
+    district: county
+rules:
+    'no':
+        'en':
+            - 'no'
+            - 'nope'
+            - 'nah'
+            - 'nay'
+            - 'n'
+    'yes':
+        'en':
+            - 'yes'
+            - 'ya'
+            - 'y'
+            - 'yah'
+            - 'yey'
+
+opt_in_words:
+    - 'join'
+opt_out_words:
+    - 'quit'
+    - 'stop'
+    - 'unjoin'
+    - 'giki'
